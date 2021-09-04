@@ -11,7 +11,7 @@ Machine learning model for estimating costs in bespoke manfuacturing
 <!-- * [License](#license) -->
 
 ## General Information
-- POroejct ot use machine learning models to help estimate costs in bespoke manufacturing. Intended to improve speed and accuracy of cost estimation to improve overall gross margins.
+- Using machine learning models to help estimate costs in bespoke manufacturing. Intended to improve speed and accuracy of cost estimation to improve overall gross margins.
 
 ## Technologies Used
 - Python - version 3.8.5
