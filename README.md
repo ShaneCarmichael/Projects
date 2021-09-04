@@ -1,2 +1,2 @@
 # Projects
-Assorted Projects
+Public Projects
